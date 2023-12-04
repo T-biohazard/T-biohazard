@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
 - 📫 How to reach me:
-  :e-mail: mdtasin459@gmail.com
+  e-mail: mdtasin459@gmail.com
 
 
 
