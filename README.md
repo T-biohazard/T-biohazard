@@ -2,7 +2,7 @@
 
 ### About Myself:
 
-- 🔭 I’m currently studying Computer Science and Engineering at East West University
+- 🔭 I’m currently working at RedDot Digital Ltd, as a software engineer. I have studied Computer Science and Engineering from East West University.
 - 📫 How to reach me:
   e-mail-> mdtasin459@gmail.com
 
